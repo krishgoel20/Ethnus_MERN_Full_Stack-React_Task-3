@@ -4,7 +4,7 @@ import ColorPicker from './Component/ColorPicker';
 function App() {
   return (
     <div className="App">
-      <ColorPicker />
+      <ColorPicker/>
     </div>
   );
 }
